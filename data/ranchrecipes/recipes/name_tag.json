@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#i",
+        "#L#",
+        "#L#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        },
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        }
+    },
+    "result": {
+        "item": "minecraft:name_tag",
+        "count": 1
+    }
+}
